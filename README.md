@@ -1,4 +1,4 @@
 # GOLearning
 repo for practise code while learning Go
-#purpose
+# purpose
 record my code when studying GO
